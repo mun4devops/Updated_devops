@@ -1,3 +1,6 @@
+git pull
+git fetch
+git push
 git init
 git status
 git clone
